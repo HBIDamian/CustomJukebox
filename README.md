@@ -9,3 +9,6 @@ Literally plays music wherever you point the stick
 ## Main2.php
 My failed attempt at making a jukebox that plays music when you right click it.
 
+## Credits
+- ChatGPT, ofc. 
+- [Sneaky_Snitch_Kevin_MacLeod.ogg](http://incompetech.com) - Used as a placeholder sound. Would kinda fit the minecraft jukebox vibe ig too. 
